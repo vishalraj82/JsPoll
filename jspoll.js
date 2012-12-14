@@ -1,4 +1,3 @@
-
 /**
  *  JsPoll contains an object which results from execution of the
  *  anonymous function. The object contains functions with public
@@ -376,5 +375,5 @@ var JsPoll =
 				function () {
 					return cfg.maxRequests;
 				}
-		}
+		} 
 	})();
